@@ -1,0 +1,22 @@
+{
+    "data": [
+        {
+            "Sl_no" : 1,
+            "user": "ldkfjlk",
+            "registration_no": 101,
+            "model": 101,
+            "manufacture_date": 101,
+            "registration_date": 101,
+            "action": 0
+        },
+        {
+            "Sl_no" : 1,
+            "user": "ldkfjlk",
+            "registration_no": 101,
+            "model": 101,
+            "manufacture_date": 101,
+            "registration_date": 101,
+            "action": 0
+        }
+    ]
+}
